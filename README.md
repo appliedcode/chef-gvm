@@ -1,3 +1,3 @@
-chef-gvm
+chef-gvm (WIP)
 ========
-TODO: Enter the cookbook description here.
+Installs gvm(Go-Version-Manager)
