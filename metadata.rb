@@ -6,7 +6,7 @@ description      'Installs/Configures chef-gvm'
 long_description 'Installs/Configures chef-gvm'
 version          '0.1.0'
 
-recipe 'gvm',             'Installs gvm'
+recipe 'gvm', 'Installs gvm'
 
 
 %w{ debian ubuntu centos fedora }.each do |os|
